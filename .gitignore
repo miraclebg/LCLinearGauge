@@ -1,7 +1,3 @@
-
-# Created by https://www.gitignore.io/api/objective-c
-
-### Objective-C ###
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
@@ -54,16 +50,11 @@ Carthage/Build
 # https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Gitignore.md
 
 fastlane/report.xml
-fastlane/Preview.html
 fastlane/screenshots
-fastlane/test_output
 
-# Code Injection
+#Code Injection
 #
 # After new code Injection tools there's a generated folder /iOSInjectionProject
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
-
-### Objective-C Patch ###
-*.xcscmblueprint
